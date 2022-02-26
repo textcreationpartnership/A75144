@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody almanack: or, Astrological predictions, and monethly observations, for the year, 1659. From the motions and configurations of the cœlestial bodies, three great eclipses, one of the Sun, and two of the Moon: wherein is fore-told, the most eminent actions in Europe, ... Further denoting, and setting forth, 1 The victorious proceedings of the English against the Spaniards, ... 2 The strange revolutions and changes, that will attend the affairs and councels, ... 3 The high and magnanimous transactions, of the most illustrious and serene Prince, Charles Gustavus Adolphus, ... 4 The great and glorious victories, obtained by His Royal Majesty, against the Poles and Germans; ... Together with a paraphrase upon His Majesties nativity. 5 The great and wonderful things that are incident both to men, women, and children; the several diseases ... that are most predominant; and sundry rules ... for the preservation of health, the increase of trade, both in city and countrey; and the general good of all trades whatsoever.</title>
+            <author>Livie, John, fl. 1654-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75144</idno>
+            <idno type="STC">Wing A1923</idno>
+            <idno type="STC">Thomason E993_19</idno>
+            <idno type="STC">ESTC R207783</idno>
+            <idno type="EEBO-CITATION">99866813</idno>
+            <idno type="PROQUEST">99866813</idno>
+            <idno type="VID">119099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody almanack: or, Astrological predictions, and monethly observations, for the year, 1659. From the motions and configurations of the cœlestial bodies, three great eclipses, one of the Sun, and two of the Moon: wherein is fore-told, the most eminent actions in Europe, ... Further denoting, and setting forth, 1 The victorious proceedings of the English against the Spaniards, ... 2 The strange revolutions and changes, that will attend the affairs and councels, ... 3 The high and magnanimous transactions, of the most illustrious and serene Prince, Charles Gustavus Adolphus, ... 4 The great and glorious victories, obtained by His Royal Majesty, against the Poles and Germans; ... Together with a paraphrase upon His Majesties nativity. 5 The great and wonderful things that are incident both to men, women, and children; the several diseases ... that are most predominant; and sundry rules ... for the preservation of health, the increase of trade, both in city and countrey; and the general good of all trades whatsoever.</title>
+                  <author>Livie, John, fl. 1654-1659.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Reynor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" singed: J. Livie.</note>
+                  <note>"England, .. And Portugal." connected on title page by a complex system of brackets.</note>
+                  <note>Annotation on Thomason copy: "Aug. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119099:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Bloody Almanack: OR, Aſtrological Predictions, and Monethly Obſervations,</hi> For the Year, <hi>1659. From the Motions and Configurations Of the Coeleſtial Bodies, three great Eclipſes, one of the SUN, and two of the MOON: Wherein is fore-told, the moſt eminent Acti<g ref="char:EOLhyphen"/>ons in</hi> Europe; <hi>eſpecially in</hi>
+               <list>
+                  <item>England,</item>
+                  <item>Scotland,</item>
+                  <item>France,</item>
+                  <item>Ireland,</item>
+                  <item>Denmark,</item>
+                  <item>Sweden,</item>
+                  <item>Poland,</item>
+                  <item>Flanders,</item>
+                  <item>Germany,</item>
+                  <item>
+                     <hi>And</hi> Hungary.</item>
+                  <item>Holland,</item>
+                  <item>Pruſſia,</item>
+                  <item>Norway,</item>
+                  <item>Catalonia,</item>
+                  <item>Holſtein,</item>
+                  <item>Frieſland,</item>
+                  <item>Bohemia,</item>
+                  <item>Tartary,</item>
+                  <item>Muſcovia,</item>
+                  <item>
+                     <hi>And</hi> Portugal.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Further denoting, and ſetting forth,</hi>
+               <list>
+                  <item>
+                     <hi>1</hi> The Victorious proceedings of the <hi>Engliſh</hi> against the <hi>Spaniards,</hi> and the me<g ref="char:EOLhyphen"/>morable Atchievements that ſhall happen in their Warlike <hi>Enterpriſes,</hi> and <hi>Engagements.</hi>
+                  </item>
+                  <item>
+                     <hi>2</hi> The ſtrange <hi>Revolutions</hi> and <hi>Changes,</hi> that will attend the <hi>Affairs</hi> and <hi>Coun<g ref="char:EOLhyphen"/>cels,</hi> both of <hi>Kings, Princes, States</hi> and <hi>Common-wealths.</hi>
+                  </item>
+                  <item>
+                     <hi>3</hi> The high and magnanimous <hi>Tranſactions,</hi> of the most illuſtrious and ſerene Prince, <hi>Charles Guſtavus Adolphus,</hi> King of the <hi>Swedes, Goths,</hi> and <hi>Van<g ref="char:EOLhyphen"/>dals.</hi>
+                  </item>
+                  <item>
+                     <hi>4</hi> The great and glorious <hi>Victories,</hi> obtained by His <hi>Royal Majeſty,</hi> againſt the <hi>Poles</hi> and <hi>Germans;</hi> and the routing and diſpierſing of His numerous Ene<g ref="char:EOLhyphen"/>mies. Together with a <hi>Paraphraſe</hi> upon <hi>His Majeſties Nativity.</hi>
+                  </item>
+                  <item>
+                     <hi>5</hi> The great and wonderful things that are incident both to Men, Women, and Children; the ſeveral Diſeaſes and Effects, that are moſt predominant; and ſundry <hi>Rules and Directions,</hi> for the preſervation of Health, the increaſe of Trade, both in <hi>City and Countrey;</hi> and the general good of all <hi>Trades</hi> what<g ref="char:EOLhyphen"/>ſoever.</item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Reynor,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119099:2"/>
+            <head>To the Reader,</head>
+            <opener>
+               <salute>Ingenuous Soul,</salute>
+            </opener>
+            <p>HAving been abſent from this Na<g ref="char:EOLhyphen"/>tion for ſome Years, which hinde<g ref="char:EOLhyphen"/>red my Annual Publication of this Sheet of Aſtrological Predictions; I hope (as I formerly have) I ſhall receive thy can<g ref="char:EOLhyphen"/>did acceptation. I am very brief in my Obſervations, it being moſt befitting weak Capacities. The reaſon why I en<g ref="char:EOLhyphen"/>tituled it at the firſt the Bloody Alma<g ref="char:EOLhyphen"/>nack, was, Becauſe I writ it in Times, when the Heavens ſpoke little leſs to Mortals, but Blood, Trouble, and Com<g ref="char:EOLhyphen"/>motions: I think the ſame conſideration may excuſe Me for the Title now. I have no more to ſay, but this; That if this find thy favour, I ſhall be the more encoura<g ref="char:EOLhyphen"/>ged further to ſerve Thee;</p>
+            <closer>
+               <signed>Farewel, J. LIVIE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="prognostications">
+            <div n="January" type="month">
+               <pb n="3" facs="tcp:119099:2"/>
+               <head>Januaries Obſervations.</head>
+               <lg rend="italic">
+                  <l>This Mouth's the gate o'th' reſt, but would you know,</l>
+                  <l>How it begins, Heaven's dark with Clouds and Snow:</l>
+                  <l>The Great ones jarre, the Commons pay the ſcore;</l>
+                  <l>Whilſt grim ſac'd Famine doth afflict the Poor.</l>
+               </lg>
+               <p>Were the conſultations now on Foot, and the ſpirits of men as peaceable, as the ſea<g ref="char:EOLhyphen"/>ſon unfit for action, we were happy. But moſt prudent men fear the contrary: and the Heavens ſeem to incline men to mutiny and rebellion in moſt parts of <hi>Europe:</hi> Hence we may expect, preparations not a few for eminent and warlike actions, Mens ex<g ref="char:EOLhyphen"/>pectations wound up to a great height, what may ſucceed the late change here in England, <hi>viz.</hi> the death of the moſt ſerene, and valiant <hi>Lord Protector,</hi> who, without doubt, was ſet a part for this work by Providence, and the inclination of a propitious Heaven at his birth. Some (miſguided in Art) ſeem to be confident of the reſtoring of <hi>Charles Stuart,</hi> to be King of theſe Nations, becauſe he hath a fortunate Geneſis or nativity; and that the conjuncti<g ref="char:EOLhyphen"/>on in the fiery Trigon, to happen in the year 1663, may work as eminent a change, as that in 1642. But the moſt eminent Aſtrologers are of a contrary judgement; believing that the effects of the laſt ſo eminent a conjunction, ſeconded by the change of the Aphe<g ref="char:EOLhyphen"/>lion of <hi>Mars,</hi> will ſcarcely terminate in ſome Ages. For theſe and the like cauſes too tedi<g ref="char:EOLhyphen"/>ous, and not fit here to be related, we may conclude no change remarkable in the preſent Government.</p>
+               <p>Cold Winds threatning Rain to the Iaſt Quarter: much Snow or Rain to the New-Moon, the air ſo inclinable to the 18 day, then more ſerene with froſt till the 25, after which ex<g ref="char:EOLhyphen"/>pect winds driving ſnow or rain,</p>
+            </div>
+            <div n="February" type="month">
+               <head>Februarys Obſervations.</head>
+               <lg rend="italic">
+                  <l>This month begins and ends, in th' formers ſtrain,</l>
+                  <l>For want of food and fire the poor complain:</l>
+                  <l>Hard times God wot; pray call me not a witch,</l>
+                  <l>If ſtore of rain and ſnow now fill the ditch.</l>
+               </lg>
+               <p>GOD be merciful to the poor of the City and hear their cry, and woful complaint for want of Trade, food and all manner of conveniency. The want of Trade indeed is the complaint of the Citizens in general. Here is great enquiery whether ſome great perſon be not found falſe to his truſt: pray God defend our Grandees from broiles and diviſions, nor is it onely the complaint of the poor Ttradeſmen, but our Grandees want money as well as we. I wiſh no plot, nor treacherous contrivement is now in agitation, and let every peace<g ref="char:EOLhyphen"/>able man ſay Amen. The Spring draweth on, and conſequently ſtrange and eminent actions: hearken for news from the forraign Poſts, for I hope no warlike action ſhakes our habitati<g ref="char:EOLhyphen"/>ons: The Germanes, Sweads, Poles, Tartars, Muſcovites, Dutch, Dane, &amp;c. are now high<g ref="char:EOLhyphen"/>ly concerned, and prepare for action, which we ſhortly expect to hear of. The quadrate Aſ<g ref="char:EOLhyphen"/>pect of the two infortunes, excites the ſpirits of men to warlike actions.</p>
+               <p>From the beginning to the laſt quarter, the air inclinable to moiſture; from the ſixth to the new Moon, rain and ſnow, from the new Moon to the firſt quarter, the air obſcure with ſome rain and ſnow; from thence to the end of the month, the winds high and turbulent.</p>
+            </div>
+            <div n="March" type="month">
+               <pb n="4" facs="tcp:119099:3"/>
+               <head>Marches obſervations.</head>
+               <lg rend="italic">
+                  <l>Sometimes a friendly gale, 'mongſt fogs appear,</l>
+                  <l>Diſperſe the Clouds, and make the air ſeem clear:</l>
+                  <l>Welcome thou peaceful agent; whilſt we pray,</l>
+                  <l>That thou art anſwer'd, ere thou go away.</l>
+               </lg>
+               <p>THis month is the beginning of the year, and the year begins with eminent warlike acti<g ref="char:EOLhyphen"/>ons, remarkable Embaſſies and Treaties; and ſince I intimated in the laſt month ſome<g ref="char:EOLhyphen"/>thing of action ſuddenly to happen among the Sweads, Poles, Danes, &amp;c.</p>
+               <p>It may be expected I ſhould ſay ſomething of that victorious magnificent Prince of Sweden; who for ſome years laſt paſt, hath ſhined all over <hi>Europe</hi> like a prodigious meteor or blazing ſtar, attended with ſuch effects as his neighbour Nations have been ſenſible of, and the Danes do now feel, for the Heavens ſeem to ſmile on this victorious Prince. Yet ſome Aſtro<g ref="char:EOLhyphen"/>logers now living do affirme (that his aſcendant by direction) labours to the malevolent rayes of Saturn; if it be ſo, we fear an eclipſing of his honour and ſucceſs, which God pre<g ref="char:EOLhyphen"/>vent. Surely after many tempeſts and furious guſts of diviſion, battels and effuſion of blood; we begin to hope for a calme, and a reconciliation of ſome of our differences. If in this month any agent arive, or if we have any treaty with the Spaniard, let us pray for ſucceſs.</p>
+               <p>From the beginning to the laſt quarter the air windy, clear with ſome froſt: about the laſt quarter inclinable to moiſture: ſoon clearing and a very pleaſant ſeaſon to the firſt quarter of the Moon, near which expect a little rain, ſome ſtorms end the month.</p>
+            </div>
+            <div n="April" type="month">
+               <head>Aprils Obſervations.</head>
+               <lg rend="italic">
+                  <l>The heavens poure moiſture from their plenteous ſtores,</l>
+                  <l>The earth conſumes it with her empty pores:</l>
+                  <l>Both men and beaſts rejoyce, and every thing</l>
+                  <l>Receives refreſhment from the fruitful Spring.</l>
+               </lg>
+               <p>THough the ſpring be ſeaſonable, yet diſeaſes proceeding from abundance of blood and choller are rife. Authority ſomewhat moleſted by men pretending holineſs at home, yet curteouſly treated from forreiners. The ſix and twentieth day there hapneth a great E<g ref="char:EOLhyphen"/>clipſe of the moon, the beginning at thirty four minutes paſt ſix in the evening, ſhe riſeth eclipſed: the greateſt obſcuration will appear at eight; the end will be ſomewhat after nine: the whole duration will be almoſt three houres: almoſt nine digits or parts will be darkned. The effects of this Eclipſe will ſhew themſelves from the latter end of Auguſt, to the end of the autumnal quarter: and will ſpend their influence upon youth, the fruits of the earth, it hapning in the Eaſt Angle it preſageth a rot and conſumption among the vul<g ref="char:EOLhyphen"/>gar ſort of peple, becauſe it hapneth in the watry triplicity; it ſignifieth much trouble at ſea, ſea fights, overflowing of the ſea banks, &amp;c. The ſign wherein the Eclipſe hapneth be<g ref="char:EOLhyphen"/>ing fixed, it ſignifieth the decay and ruine of ancient buildings and families; and ſo much the greater will the effects appear, becauſe <hi>Mars</hi> is Lord of it. The places ſubject to its in<g ref="char:EOLhyphen"/>fluence, ſee in the next month.</p>
+               <p>The month begins with bluſtering ſtorms: from the laſt quarter to the new Moon, cold, cloſe and windy weather: from thence to the firſt quarter ſuddain ſtorms, ſoon clearing: the next quarter cloudy, and inclinable to rain, the month ends with clearing gales.</p>
+            </div>
+            <div n="May" type="month">
+               <pb n="5" facs="tcp:119099:3"/>
+               <head>Mays Obſervations.</head>
+               <lg rend="italic">
+                  <l>You lively youngſters, who do early wake,</l>
+                  <l>And walke'th fields, your pleaſure for to take,</l>
+                  <l>Be moderate in your ſport, for thats the means</l>
+                  <l>To hold the longer, nought good in extreams.</l>
+               </lg>
+               <p>I ſhall hear give you the names of the Kingdomes, Cities and Towns, which ſhall princi<g ref="char:EOLhyphen"/>pally feel the effects of the Eclipſe the laſt month, <hi>viz.</hi> ſuch as are under Scorpio, Tau<g ref="char:EOLhyphen"/>rus, Leo and Aquarius. Countries under Scorpio are the higher, <hi>Norway, Bavaria, Comage<g ref="char:EOLhyphen"/>na, Capadocia, Idumaea, Mauritanaea,</hi> the Kindome of <hi>Feſſe, Gethulia,</hi> and <hi>Catalonia;</hi> Cities and towns <hi>Algiers, Valentia</hi> in <hi>Spain, Trapezant, Urbinum,</hi> the South part of <hi>Swethland, Weſt<g ref="char:EOLhyphen"/>phalia, Hambrough, Breme,</hi> &amp;c. Theſe are the principal Cities and Towns under the four Signs. What other places are ſubject to the influence of this and the two following Eclipſes, expect hereafter.</p>
+               <p>The Moneth begins with ſeaſonable Weather, about the 14th day cooling Winds, about the firſt quarter. Some Clouds dropping Rain by courſe, yet ſoon clearing. Thunder and turbulent Weather ends the Moneth.</p>
+            </div>
+            <div n="June" type="month">
+               <head>June's Obſervations.</head>
+               <lg rend="italic">
+                  <l>After fair Weather, ſtorms of Rain appear,</l>
+                  <l>We know 'twere ill, if th'air were always clear:</l>
+                  <l>After a Calm, Wrath ſtirs the minds of men,</l>
+                  <l>Wer't never ſo, we ſhould be happy then.</l>
+               </lg>
+               <p>BOth this moneth, and the laſt, we are pretty peaceable among our ſelves, and many pleaſing Miſſives arrive to our Grandees. From beyond the Seas we have eminent In<g ref="char:EOLhyphen"/>telligence; the <hi>Swedes</hi> ſerve under a <hi>Riſing Prince,</hi> as well as the <hi>Engliſh;</hi> the <hi>Proteſtants Banners</hi> are now diſplaying throughout the <hi>Popiſh Territories</hi> with glorious Succeſs; and about this time a Signal Victory is obtained by that Worthy of Worthies, the renow<g ref="char:EOLhyphen"/>ned <hi>Swediſh</hi> King. The <hi>Engliſh</hi> Heroes in <hi>Flanders</hi> are crowned with the like ſucceſs againſt the proud <hi>Spaniard,</hi> and great is the blow given to <hi>Great Brittains</hi> Enemies in <hi>Catalonia.</hi> Many Sea-Fights and Pyracies committed upon the Straights, and the Coaſts of <hi>Argier,</hi> the <hi>Naval</hi> Forces of <hi>Brittain</hi> prove ſucceſsful, and play <hi>Rex</hi> upon the <hi>Neptune,</hi> cutting their paſſage through the <hi>Curled Waves,</hi> with undanted Reſolutions, and irreſiſtable Spirits, to the great aſtoniſhment, and exceeding admiration of all <hi>Europe.</hi>
+               </p>
+               <p>
+                  <hi>The Moneth begins fair and pleaſant: About the fourth or fifth day Clouds threaten Rain: from the new Moon, to the firſt Quarter, fair and clear: yet by Coaſt ſome Thunder. From the firſt Quarter to the full Moon, the Air much diſtempered: Cooling Winds ends the Moneth.</hi>
+               </p>
+               <pb n="6" facs="tcp:119099:4"/>
+            </div>
+            <div n="July" type="month">
+               <head>July's Obſervations.</head>
+               <lg rend="italic">
+                  <l>As I went forth to view the azure skie,</l>
+                  <l>I ſaw <hi>Mars</hi> draw his Sword, but ask him why</l>
+                  <l>I durſt not, yet his looks made forth to me,</l>
+                  <l>He meant to act ſome direful Tragedie.</l>
+               </lg>
+               <p>VVEighty conſultations on foot here in England, they are kept cloſer then ordina<g ref="char:EOLhyphen"/>ry, the people much more deſirous to hear what the reſult may produce. Our great ones very jealous of one anothers actions. We have much intelligence at home from the conſultations of this month, and the month preceding: much more from beyond the Seas. I wiſh we have no ill news from Ireland: and I pray God deliver that Nation from inteſtine broils, and ſome epidemical diſeaſe, which I much fear afflicteth the Inhabitants of that Nation. We have eminent intelligence from <hi>Sweden, Denmark, Holland, Poland, Ba<g ref="char:EOLhyphen"/>varia, Tartary, Italy</hi> and the adjacent parts. It appears to me from the language of the ſupe<g ref="char:EOLhyphen"/>riour bodies, that the moſt eminent Prince <hi>Carolus Guſtavus Adolphus</hi> King of Sweden is ram<g ref="char:EOLhyphen"/>pant, and a terrour to ſome of his neighbour Nations, without doubt eminent warlike acti<g ref="char:EOLhyphen"/>on hath happened, and more ſuddenly to happen about thoſe parts. Towards the latter end of the month <hi>Mars</hi> is in oppoſition to the place of the Moon at her Eclipſe in <hi>April,</hi> the ef<g ref="char:EOLhyphen"/>fects begin to ſhew themſelves to ſome purpoſe.</p>
+               <p>The month begins with ſeaſonable wether, ſoon after ſome thunder, ending with cold rain, an obſcure air till three or four daies after the new Moon, after that fair, about the firſt quarter high winds and ſome ſhowers: cooling gales to the full Moon. The month end with a turbulent aire.</p>
+            </div>
+            <div n="August" type="month">
+               <head>Auguſts Obſervations.</head>
+               <lg rend="italic">
+                  <l>What cunning games do polititians play?</l>
+                  <l>They ſtudy miſchief even whilſt they pray;</l>
+                  <l>If of their actings you would know the ſence,</l>
+                  <l>Gain is their ſtake, Religion their pretence.</l>
+               </lg>
+               <p>LEt the Farmer uſe all diligence to houſe his corn, for I fear this month proves unſea<g ref="char:EOLhyphen"/>ſonable harveſt-wether, by reaſon of many turbulent ſtormes of lightning, thunder, and rain. The Farmer complains of his Crops, and that his Grain is not ſo good as the Spring Quarter promiſed, which makes the poor fear another hard winter, having not yet recovered the poverty and diſeaſes of the laſt. I much fear ſickneſs and poverty afflicts the poor Inhabitants of Ireland, God grant my fears may prove groundleſs. Our Merchants complain, and are in fear of their adventures by reaſon of their turbulency of the Heavens. The commonalty fear their peace and tranquillity, while the great ones jarre. For the qua<g ref="char:EOLhyphen"/>drate Aſpect of <hi>Jupiter</hi> and <hi>Mars,</hi> and of <hi>Mars</hi> and the Sun threatneth diviſions and heart<g ref="char:EOLhyphen"/>burnings among great perſons, the Lawyers and diſcontented Cleargy-men, endeavouring what they can to moleſt their Superiours. But before the end of the month, the two ſuperi<g ref="char:EOLhyphen"/>our Planners <hi>Saturn</hi> and <hi>Jupiter</hi> doe aſpect each other, with a friendly Sextile Aſpect; which puts us in hopes of a reconciliation; and I verily believe that either before this time, or about this time, there is ſome accomodation, or at leaſt ſtrong endeavours for it, between ſome eminent States of Europe:</p>
+               <p>Cloudy and wet the firſt quarter, the next very hot and inclinable to Thunder and Light<g ref="char:EOLhyphen"/>ning, ſo continuing till the latter end of the month, at which time expect cold rain.</p>
+            </div>
+            <div n="September" type="month">
+               <pb n="7" facs="tcp:119099:4"/>
+               <head>Septembers Obſervations.</head>
+               <lg rend="italic">
+                  <l>The Planets King divides the day and night,</l>
+                  <l>Like a good Leveller, who doth all right,</l>
+                  <l>Our earthly Heroes ſingeth the ſame ſong,</l>
+                  <l>They'l do men right, and will not ſuffer wrong.</l>
+               </lg>
+               <p>ON the ſixteenth day of <hi>Auguſt</hi> laſt, the Planet <hi>Mars</hi> entred the Sign <hi>Gemini,</hi> and conti<g ref="char:EOLhyphen"/>nueth till the 21. day of <hi>March,</hi> 1660. and, without controverſie, is Lord and chief Ru<g ref="char:EOLhyphen"/>ler, both of the laſt and the two ſucceeding Eclipſes, which according to the rules of Aſtro<g ref="char:EOLhyphen"/>logy ſpeaks thus much, that thoſe people who are under the Signe <hi>Gemini</hi> muſt expect to be ſharers not onely in the effects of the firſt Eclipſe now operating, but alſo of the two other, of which expect an account in their proper places. So that beſides the townes menti<g ref="char:EOLhyphen"/>oned in <hi>May,</hi> let <hi>Flanders, Brabant,</hi> the Dukedome of Wittemberg, the Weſt of England and many places more, which for brevity ſake I omit expect to ſuffer. <hi>Gemini</hi> being the aſcen<g ref="char:EOLhyphen"/>dant of <hi>London,</hi> without doubt participates of the direful effects of <hi>Mars, viz.</hi> ſickneſs, dearth, and want of trade, afflicting all ſorts, eſpecially the poor, fire and ſuch like, which God pre<g ref="char:EOLhyphen"/>ſerve her from.</p>
+               <p>Some great perſons act honourably, for which they receive a popular applauſe about this time. This month far more ſeaſonable for the country man then the former.</p>
+               <p>Probably ſome ſhowres about the eleventh or twelfth day, or elſe the whole month ſeaſo<g ref="char:EOLhyphen"/>nable and good for the harvoſt man.</p>
+            </div>
+            <div n="October" type="month">
+               <head>Octobers obſervation.</head>
+               <lg rend="italic">
+                  <l>When men pretending zeal can cheat each other,</l>
+                  <l>Relations not regard, each cheat his Brother;</l>
+                  <l>When pride and covetouſneſs hath the command,</l>
+                  <l>You may be ſure, deſtruction is at hand.</l>
+               </lg>
+               <p>ON the twentieth day of this month, their hapneth another Eclipſe of the Moon: the beginning at forty minutes after one in the morning, the greateſt obſcuration about eight minutes after three, the end at thirty five minutes after four, the whole duration two houres and fifty five minutes: The Digits or parts eclipſed are ſeaven. The ſigne wherein this Eclipſe hapneth is Taurus an earthly and beſtial one, as the ſigne is earthly, it ſignifieth a ſcarceity of Corn and Grain, alſo much ſickneſs and mortallity both to great and ſmall cattle, and ſo much the more becauſe <hi>Mars</hi> is retrogade and almoſt ſtationary upon the Angle ſucceeding, and Lord of the eighth houſe, and the Moon in the eighth. The effects of this Eclipſe are much mitigated, becauſe <hi>Venus,</hi> Lady of the houſe wherein the Eclipſe hapneth is well poſted with Starrs of a benevolent influence. Let the Hollander expect about this time loſſes by their maritine enterpriſes as well as our Merchants; and let them look to their Dams, leſt they meet with ſuch a deluge as hapned to them in the year 1651. the heavens ſeem not onely to threaten them, but other parts lying near the ſea ſide.</p>
+               <p>About the fifth day expect ſhowres: about the ninth day cloudy, after the 15th. day cold rain for many daies, 25 day clearing again and ſome froſt. The month ends with cold wind rain or ſnow.</p>
+            </div>
+            <div n="November" type="month">
+               <pb n="8" facs="tcp:119099:5"/>
+               <head>November's Obſervations.</head>
+               <lg rend="italic">
+                  <l>
+                     <hi>Sol</hi>'s ſplendid Beams are hid from us, who can</l>
+                  <l>Think 'tis in vain, unleſs ſome <hi>Heathen</hi> man:</l>
+                  <l>He who dreads not th'effects, is a known Foe</l>
+                  <l>To <hi>God</hi> and <hi>Scripture,</hi> the <hi>Prophets</hi> did ſo.</l>
+               </lg>
+               <p>THe 4th day of this Moneth, there happeneth an eminent Eclipſe of the Sun, near 9 digits or parts darkened: the beginning at 52 min. paſt one; the greateſt obſcuration at 4 min. paſt 3. the end at 13 min. paſt 4. the whole duration 2 hours, and 21 min. This Eclipſe happeneth in the houſe of <hi>Mars,</hi> and the two Infortunes <hi>Saturn</hi> and <hi>Mars</hi> are Lords thereof; therefore more violently will the Effects operate. It is the fore-runner of dangerous and mortal Diſeaſes. It ſtirs up Wars, Seditions, Tumults, Impriſonments, beheading of great perſons, acute Diſeaſes, violent and untimely deaths. From which, <hi>Good Lord deliver us all.</hi> From the beginning of the moneth to the 11th day, the Wind diſpierſeth ſome moiſture: about the 12th day the Winds riſe higher, and ſome moiſture followeth, and a troubled Sky: near the laſt quarter clear and Froſt, which ſoon turns to driſſing Weather.</p>
+            </div>
+            <div n="December" type="month">
+               <head>December's Obſervations.</head>
+               <lg rend="italic">
+                  <l>This Moneth the Planets pretty well agree,</l>
+                  <l>With all my heart I wiſh that ſo may we:</l>
+                  <l>To end the year, I wiſh you all good diet,</l>
+                  <l>And Grace to eat it, and to live in quiet.</l>
+               </lg>
+               <p>HAving little of Monethly Obſervations for this moneth, I ſhall go on here with the Effects of the Solar Eclipſe: <hi>Saturn</hi> being in <hi>Scorpio,</hi> which is the Sign wherein the Eclipſe happeneth and Augular: He afflicteth men with cold Diſeaſes, Poverty and mi<g ref="char:EOLhyphen"/>ſery, ſcarcity of corn, and ſuch cattle as men feed on, and afflicts them with Diſeaſes, ma<g ref="char:EOLhyphen"/>king them unfit for man's food. Great Tempeſts and ſhipwracks at Sea, Inundations and over-flowing of the Sea and Rivers, the death of ancient people, and many Controverſies, and Law-ſuits. The places ſubject to this and the former Eclipſe, I have inſerted in <hi>May.</hi> The time when they ſhall happen, I ſhall not here inſiſt upon, becauſe they will not be<g ref="char:EOLhyphen"/>gin to operate till 1660. <hi>The Moneth begins ſerene, temperate, and froſty mornings: about the</hi> 9. <hi>day the cold Winds drive moiſture:</hi> 13. <hi>day rain or ſnow: more temperate about the full Moon: cloudy ſnow or rain about the</hi> 23. <hi>From the</hi> 25. <hi>to the end of the moneth ſerene and wholeſom froſt.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
